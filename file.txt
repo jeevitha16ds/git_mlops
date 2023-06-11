@@ -1,2 +1,3 @@
-Python is easy
 SQL is easy
+a=3
+b=4
