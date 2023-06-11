@@ -1,5 +1,1 @@
-This is version 10
-This is version 20
-This is version 30
-This is version 40
-This is version 50
+Git is crazy
