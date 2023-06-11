@@ -1,1 +1,1 @@
-Git is crazy
+Python is easy
